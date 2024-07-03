@@ -1,0 +1,5 @@
+1. Connect the ESP8266-01 to the USB Port.
+
+2. Install the Driver.
+
+3. Upload the code from the Arduino IDE.

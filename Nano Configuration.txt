@@ -1,0 +1,6 @@
+1. Open IDE
+2. Try to Upload
+3. You get the error message
+4. Open Device Manager and uninstall the driver
+5. Install the CH341 Driver
+6. Use the old bootloader
